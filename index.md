@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## 准备好迁移你妈的墓地了吗？
 
-You can use the [editor on GitHub](https://github.com/Dongdong365/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+您也许已经听说了口我们正将所有网络孤儿母亲的墓地迁移到化粪池内，以确保墓地的安全。
+
+看来今日大吉!您已经可以将您母亲的墓地迁移至化粪池内，以确保您母亲尸体的安全。这过程不会很长，查香FAQ与详情清点此口大概仅需两分钟。
+ [editor on GitHub](https://github.com/Dongdong365/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
